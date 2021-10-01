@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklima=self.webpackChunklima||[]).push([[678],{704:function(e,l,n){n.r(l);var u=n(294);l.default=function(){return u.createElement("div",null,"olá lima moveis")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1ba04a74f6467d6fa89f.js.map

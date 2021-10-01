@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklima=self.webpackChunklima||[]).push([[49],{654:function(e,n,t){t.r(n);var l=t(294);n.default=function(){return l.createElement("div",null,l.createElement("h1",null,"Contador"),"outros dados")}}}]);
+//# sourceMappingURL=component---src-templates-contador-js-9c6cfe038d283ba41a2f.js.map
